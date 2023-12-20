@@ -1,0 +1,23 @@
+.cartaM{
+    background-color: aqua;
+    text-align: center;
+    text-shadow: 10px;
+}
+.j1 {
+    margin: auto;
+    color: blueviolet;
+    height: 100px;
+    width: 100px;
+}
+.body {
+    padding: 30px;
+    color: brown;
+    grid-template-columns: 1 fr 1fr;
+    display: grid;
+    margin: auto;
+
+}
+.jug1 img {
+    height: auto;
+    width: auto;
+}
